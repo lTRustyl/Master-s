@@ -83,7 +83,7 @@ Download the models from Google Drive:
 **Google Drive link:**
 
 ```
-https://drive.google.com/your-model-link
+https://drive.google.com/drive/folders/1DqHET5-YwKrpbb5McxHH2KUQl_RFkavD?usp=sharing
 ```
 
 After downloading, place the files in the **root directory of the project**.
